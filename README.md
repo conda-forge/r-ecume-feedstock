@@ -1,11 +1,11 @@
-About r-ecume
-=============
+About r-ecume-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ecume-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=Ecume
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ecume-feedstock/blob/main/LICENSE.txt)
 
 Summary: We implement (or re-implements in R) a variety of statistical tools. They are focused on non-parametric two-sample (or k-sample) distribution comparisons in the univariate or multivariate case. See the vignette for more info.
 
