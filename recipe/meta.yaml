@@ -32,8 +32,7 @@ requirements:
     - r-kernlab
     - r-magrittr
     - r-pbapply
-    - r-spatstat >=2.0_0
-    - r-spatstat.geom
+    - r-spatstat.univar
     - r-transport
   run:
     - r-base
@@ -43,8 +42,7 @@ requirements:
     - r-kernlab
     - r-magrittr
     - r-pbapply
-    - r-spatstat >=2.0_0
-    - r-spatstat.geom
+    - r-spatstat.univar
     - r-transport
 
 test:
